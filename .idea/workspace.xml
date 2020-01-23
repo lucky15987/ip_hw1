@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c08151d1-8713-4ca8-a0b1-c85c972094a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Wit Profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Ethan_Nguyen.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/aboutMe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/aboutMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/aboutMe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Wit Profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/WitProfile.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/aboutMe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="714">
+              <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -69,6 +69,11 @@
               <item name="ip_hw1" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ip_hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ip_hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -86,6 +91,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ethan Nguyen\OneDrive\Documents\School\Internet_Programming\ip_hw1\img" />
       <recent name="C:\Users\Ethan Nguyen\OneDrive\Documents\School\Internet_Programming\ip_hw1\html" />
     </key>
   </component>
@@ -113,12 +119,12 @@
       <updated>1579751974730</updated>
       <workItem from="1579751977266" duration="2338000" />
       <workItem from="1579760921542" duration="107000" />
-      <workItem from="1579761042895" duration="1704000" />
+      <workItem from="1579761042895" duration="4350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4149000" />
+    <option name="totallyTimeSpent" value="6795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -153,8 +159,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/html/aboutMe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="714">
+          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
         </state>
       </provider>
     </entry>
